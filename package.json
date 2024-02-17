@@ -1,0 +1,19 @@
+{
+  "name": "omer-test",
+  "version": "1.0.1",
+  "description": "This is test package for using",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.io/OFD16/test-package-npm)"
+  },
+  "keywords": [
+    "NPM",
+    "tutorial"
+  ],
+  "author": "Omer Faruk Demirsoy",
+  "license": "ISC"
+}
